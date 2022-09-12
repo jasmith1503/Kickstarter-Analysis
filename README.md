@@ -13,6 +13,7 @@ I preformed my analysis using Excel and the dataset "Kickstarter". This informat
 The conclusion for the worksheet "Theater Outcomes by Launch Date" implies there is a large number of new plays / musicals where the kickstarter is started in April, May and June of any given year. This could coincide with summer semesters or end of school year with graduations and in a increase of available staff to produce the play. 
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 Most smaller projects ($0.00 to $14,999) have a declining chance of success vs projects which have a smaller to larger goal have an increasing chance of failure. After goals of $15,000 fail more than the projects with the same amount. There were two notable groups ($35,000 to $39,999 & 40,000 to $44,999) where 66% of the projects were funded. 
 
 ### Challenges and Difficulties Encountered
